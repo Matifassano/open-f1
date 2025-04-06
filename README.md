@@ -27,7 +27,6 @@ This project is a lightweight Retrieval-Augmented Generation (RAG) system that a
     ```bash
     streamlit run main.py
 
-
 🧪 How It Works
 1. Web content is scraped from the URLs in the `.env` file.
 2. The text is split into semantic chunks.
